@@ -1,4 +1,4 @@
-- In statistics, linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent vari- ables). [1]
-- Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. [2]
-- In this project, I will use ordinary least squares (OLS) method for estimating the unknown param- eters in a linear regression model which is a type of linear least squares. [3]
+- In statistics, linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent vari- ables). 
+- Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. 
+- In this project, I will use ordinary least squares (OLS) method for estimating the unknown param- eters in a linear regression model which is a type of linear least squares. 
 - Because there are many requirements with different ways to process so I will go deeply for the idea in each sections.
